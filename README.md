@@ -1,6 +1,6 @@
 # Sample AEM project template
 
-This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
+This is changed.This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
 ## Modules
 
@@ -18,7 +18,7 @@ To build all the modules run in the project root directory the following command
 
     mvn clean install
 
-If you have a running AEM instance you can build and package the whole project and deploy into AEM with  
+Test If you have a running AEM instance you can build and package the whole project and deploy into AEM with  
 
     mvn clean install -PautoInstallPackage
     
